@@ -53,4 +53,4 @@ Deliverable: A configured Application Insights instance, Azure Monitor alerts, a
 Expected Outcome:
 This project will result in a fully automated CI/CD pipeline on Azure, with Docker-based containerization, real-time monitoring, and logging for your web application. You'll gain direct experience with Azure’s DevOps and cloud-native tools, as well as the ability to articulate this setup in interviews.
 
-Let me know if you need help with any particular part, such as writing specific scripts or configuring Azure services!
+
